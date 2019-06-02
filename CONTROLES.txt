@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////
+Lado Izquierdo:
+////////////////////////////////////////////////////
+=========MOVIMIENTO===================
+W = Arriba
+A = Izquierda
+S = Abajo
+D = Derecha
+=========JUGABILIDAD===================
+V = Disparar
+B = Cargar Ataque
+C = Modo presición
+
+////////////////////////////////////////////////////
+Lado Derecho:
+////////////////////////////////////////////////////
+=========MOVIMIENTO===================
+Flecha Direccional Arriba = Arriba
+Flecha Direccional Izquierda = Izquierda
+Flecha Direccional Abajo = Abajo
+Flecha Direccional Derecha = Derecha
+=========JUGABILIDAD===================
+NUMPAD_1 = Disparar
+NUMPAD_2 = Cargar Ataque
+NUMPAD_3 = Modo presición
